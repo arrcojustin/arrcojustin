@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi!!!
+here is Justin~ <br>
+You also can call me ⭐⌈San Yunhaun⌋☁️<br>
+13 y.o. Student <br>
+From GuangDong, China <br>
+<h2>More About Me</h2>
 
+- 🌱 I’m currently learning C++
+- ❤️ Hobbies are talking, writing code
+<h1>Welcome to talk with me!!!</h1>
+
+- Email: justin@arrco.top
+- Telegram: t.me/arrcojustin2
 <!--
 **arrcojustin/arrcojustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
