@@ -3,7 +3,8 @@ here is Justin~ <br>
 You also can call me ⭐⌈San Yunhaun⌋☁️<br>
 13 y.o. Student <br>
 From GuangDong, China <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrcojustin&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrcojustin&show_icons=true&bg_color=00000000)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrcojustin&layout=compact&show_icons=true&bg_color=00000000)
 <h2>More About Me</h2>
 
 - 🌱 I’m currently learning C++
