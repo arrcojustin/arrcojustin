@@ -7,7 +7,7 @@ From GuangDong, China <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrcojustin&layout=compact&show_icons=true&bg_color=00000000)
 <h2>More About Me</h2>
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++/VUE
 - ❤️ Hobbies are talking, writing code
 <h1>Welcome to talk with me!!!</h1>
 
